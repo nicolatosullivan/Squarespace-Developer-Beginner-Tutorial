@@ -14,11 +14,11 @@
     <div class="container">
 
       <header class="header">
-        <h1 class="site-title">
-          <a href="/">
-            Developer Platform Beginner Tutorial
-          </a>
-        </h1>
+        <h1 class="site-title" data-content-field="site-title">
+    <a href="/">
+      {website.siteTitle}
+    </a>
+  </h1>
       </header>
 
       <main class="content">
